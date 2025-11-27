@@ -11,6 +11,11 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     prompt: "What's the surf forecast for Maresias?",
     icon: "circle-question",
   },
+  {
+    label: "Limited edition: PONCHO",
+    prompt: "Limited edition: PONCHO",
+    icon: "circle-question",
+  },
 ];
 
 export const PLACEHOLDER_INPUT = "Ask anything...";
