@@ -12,8 +12,8 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     icon: "circle-question",
   },
   {
-    label: "Limited edition: PONCHO",
-    prompt: "Limited edition: PONCHO",
+    label: "Limited edition: SURFSKATE",
+    prompt: "Limited edition: SURFSKATE",
     icon: "circle-question",
   },
 ];
