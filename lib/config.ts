@@ -16,6 +16,11 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     prompt: "Limited edition: SURFSKATE",
     icon: "circle-question",
   },
+   {
+    label: "WAVE-POOL ACESS",
+    prompt: "WAVE-POOL ACESS",
+    icon: "circle-question",
+  },
 ];
 
 export const PLACEHOLDER_INPUT = "Ask anything...";
