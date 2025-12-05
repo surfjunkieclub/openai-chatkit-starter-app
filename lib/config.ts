@@ -7,18 +7,13 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
-    label: "What's the surf forecast for Maresias?",
-    prompt: "What's the surf forecast for Maresias?",
+    label: "Forecast for Maresias?",
+    prompt: "Forecast for Maresias?",
     icon: "circle-question",
   },
   {
     label: "Limited edition: SURFSKATE",
     prompt: "Limited edition: SURFSKATE",
-    icon: "circle-question",
-  },
-   {
-    label: "WAVE-POOL ACESS",
-    prompt: "WAVE-POOL ACESS",
     icon: "circle-question",
   },
 ];
