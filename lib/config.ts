@@ -20,6 +20,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     prompt: "WAVE POOL SESH: BOOK NOW",
     icon: "circle-question",
   },
+  {
 ];
 
 export const PLACEHOLDER_INPUT = "Go ahead...";
