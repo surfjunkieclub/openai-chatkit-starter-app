@@ -12,8 +12,8 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     icon: "circle-question",
   },
   {
-    label: "WAVE POOL SESH: BOOK NOW",
-    prompt: "WAVE POOL SESH: BOOK NOW",
+    label: "WAVE POOL SESH: BOOK NOW!",
+    prompt: "WAVE POOL SESH: BOOK NOW!",
     icon: "circle-question",
   },
 ];
