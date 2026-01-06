@@ -18,7 +18,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   },
 ];
 
-export const PLACEHOLDER_INPUT = "Go ahead...";
+export const PLACEHOLDER_INPUT = "Ask anything...";
 
 export const GREETING = "Hi, I'm Andy. What's up?";
 
