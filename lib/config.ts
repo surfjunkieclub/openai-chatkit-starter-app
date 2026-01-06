@@ -15,12 +15,12 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     label: "SHOP NOW: SURF SKATE",
     prompt: "SHOP NOW: SURF SKATE",
     icon: "circle-question",
-      {
+  },
+  {
     label: "WAVE POOL SESH: BOOK NOW",
     prompt: "WAVE POOL SESH: BOOK NOW",
     icon: "circle-question",
   },
-  {
 ];
 
 export const PLACEHOLDER_INPUT = "Go ahead...";
