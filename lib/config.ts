@@ -16,7 +16,6 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     prompt: "Wave Pool Sesh, book now!",
     icon: "circle-question",
   },
-  {
 ];
 
 export const PLACEHOLDER_INPUT = "Say anything...";
