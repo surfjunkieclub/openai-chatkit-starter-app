@@ -12,15 +12,15 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     icon: "circle-question",
   },
   {
-    label: "WAVE POOL SESH: BOOK NOW!",
-    prompt: "WAVE POOL SESH: BOOK NOW!",
+    label: "SURF PASS: WAVE POOL RIDES!",
+    prompt: "SURF PASS: WAVE POOL RIDES!",
     icon: "circle-question",
   },
 ];
 
 export const PLACEHOLDER_INPUT = "Ask anything or leave...";
 
-export const GREETING = "YO! I'M ANDY, WHAT'S UP?";
+export const GREETING = "I'M ANDY, WHAT'S UP?";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
