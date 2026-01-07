@@ -13,9 +13,10 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   },
   {
     label: "Wave Pool Sesh, Book now!",
-    prompt: "WAVE POOL SESH: BOOK NOW!",
+    prompt: "Wave Pool Sesh, Book now!",
     icon: "circle-question",
   },
+  {
 ];
 
 export const PLACEHOLDER_INPUT = "Say anything...";
