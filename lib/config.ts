@@ -7,13 +7,13 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
-    label: "Forecast for Pipeline, today ",
-    prompt: "Forecast for Pipeline, today",
+    label: "FORECAST FOR PIPELINE: TODAY",
+    prompt: "FORECAST FOR PIPELINE: TODAY",
     icon: "circle-question",
   },
   {
-    label: "Wave Pool Sesh, book now!",
-    prompt: "Wave Pool Sesh, book now!",
+    label: "WAVE POOL SESH: BOOK NOW!",
+    prompt: "WAVE POOL SESH: BOOK NOW!",
     icon: "circle-question",
   },
 ];
