@@ -12,8 +12,8 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
     icon: "circle-question",
   },
   {
-    label: "SURF PASS: WAVE POOL BOOKING!",
-    prompt: "SURF PASS: WAVE POOL BOOKING!",
+    label: "SURF PASS: WAVE POOL EXPERIENCE NOW",
+    prompt: "SURF PASS: WAVE POOL EXPERIENCE NOW",
     icon: "circle-question",
   },
 ];
